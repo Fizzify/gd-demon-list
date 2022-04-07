@@ -17,6 +17,7 @@
 
 <body>
   <section>
+    <h1>GD Demon List</h1>
     <Demons {demon} />
   </section>
 </body>
@@ -31,5 +32,5 @@
 </style>
 
 <svelte:head>
-  <title>Pointercrate API Practice</title>
+  <title>GD Demon List</title>
 </svelte:head>
