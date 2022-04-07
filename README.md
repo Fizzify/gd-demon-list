@@ -1,6 +1,7 @@
 # gd-demon-list
 
 This was made using [`Pointercrate API`](https://github.com/stadust/pointercrate)
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
@@ -39,3 +40,5 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> 
+![image](https://user-images.githubusercontent.com/79361847/162333517-64d03d49-8e85-4ea1-944b-b8d1b5024af5.png)
