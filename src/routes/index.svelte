@@ -18,6 +18,8 @@
 <body>
   <section>
     <h1>GD Demon List</h1>
+    <p>Made by <a href="https://github.com/Fizzify" target="__blank">Fizzify</a></p>
+    <p>Made possible by <a href="https://github.com/stadust/pointercrate" target="__blank">Pointercrate's API</a>.</p>
     <Demons {demon} />
   </section>
 </body>
