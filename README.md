@@ -1,6 +1,6 @@
 # gd-demon-list
 
-Checkout the website [`here`](![image](https://user-images.githubusercontent.com/79361847/162333617-59e6cdb8-eefd-448a-b20d-c6cd6f97571c.png)).
+Checkout the website [`here`](https://gd-demon-list.netlify.app/).
 
 This was made using [`Pointercrate API`](https://github.com/stadust/pointercrate).
 
