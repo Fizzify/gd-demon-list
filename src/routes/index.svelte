@@ -21,6 +21,7 @@
     <p>Made by <a href="https://github.com/Fizzify" target="__blank">Fizzify</a></p>
     <p>Made possible by <a href="https://github.com/stadust/pointercrate" target="__blank">Pointercrate's API</a>.</p>
     <Demons {demon} />
+    <footer>Here is the <a href="https://github.com/Fizzify/gd-demon-list">Github</a>.</footer>
   </section>
 </body>
 <style>
